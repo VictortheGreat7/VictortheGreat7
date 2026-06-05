@@ -45,18 +45,3 @@ Docker, Bash, and Python**. The cloud providers I'm hands-on with are
 <a href="https://dev.to/victorthegreat7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="victorthegreat7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/victorthegreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victorthegreat/" height="30" width="40" /></a>
 </p>
-
-### The vibe
-
-Infrastructure as code, terminals over GUIs, and the quiet satisfaction of a
-green pipeline. 🟢
-
-## Stats
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=victorthegreat7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=victorthegreat7" alt="GitHub Streak" />
-</p>
